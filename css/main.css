@@ -1,3 +1,7 @@
+body {
+    background: #e8e8e8;
+}
+
 #vision-board {
     background-color: lightgray;
     width: 1200px;
@@ -13,6 +17,7 @@
 }
 .small-block {
 height: 210px ;
+padding: 20px 40px;
 }
 
 .large-block {
